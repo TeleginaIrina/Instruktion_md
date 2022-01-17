@@ -5,9 +5,9 @@ git init
 
 Если имя пользователя и почта не были заданы, то следует выполнить следующее:
 
-git config --global user.name "Имя пользователя"
+ git config --global user.name "Имя пользователя"
 
-git config --global user.email "Почта"
+ git config --global user.email "Почта"
 
 ## Работа с файлами
 * Для того, чтобы добавить файл, нужно:
