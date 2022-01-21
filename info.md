@@ -73,7 +73,7 @@
 Чтобы вызвать справку по команде,допишите тег: 
 > --help
 
-Примеры:
+Примеры: jfherjhgekhgkg
 > git add --help
 
 > git branch --help
