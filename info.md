@@ -55,3 +55,7 @@ git init
 
 Переместиться к ветке с именем branch_name:
 * git checkout branche_name
+
+## Слияние веток и решение конфликтов
+Чтобы слить информацию из ветки branch_name в текущую ветку:
+* git merge branch_name
