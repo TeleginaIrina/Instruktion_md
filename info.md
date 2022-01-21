@@ -1,13 +1,13 @@
 # Инструкция по работе с git репозиторием
 
 ## Для начала работы:
-git init
+> git init
 
 Если имя пользователя и почта не были заданы, то следует выполнить следующее:
 
- git config --global user.name "Имя пользователя"
+> git config --global user.name "Имя пользователя"
 
- git config --global user.email "Почта"
+> git config --global user.email "Почта"
 
 ## Работа с файлами
 * Для того, чтобы добавить файл, нужно:
@@ -30,13 +30,13 @@ git init
 
 * Для того, чтобы перейти к определенному коммиту можно использовать команду
  
- git checkout code_commit
+> git checkout code_commit
 
     code_commit - код коммита, к котрому мы хотим перейти. Его модно посмотреть в git log
 
 * Для того, чтобы вернуться к самому последнему состоянию:
 
- git checkout master
+> git checkout master
 
  ## Чтобы добавить картинку:
  * нужно написать команду 
