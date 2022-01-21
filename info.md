@@ -24,6 +24,10 @@
 
 1. git status
 2. git log
+
+   Чтобы показать ветки:
+   
+   git log --graph 
 3. git diff
 
 ## Работа с коммитами
