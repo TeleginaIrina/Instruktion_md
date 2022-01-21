@@ -44,3 +44,14 @@ git init
    ![Название файла](Путь к файлу)
 
 ![Happy birthday](photo_2021-09-23_18-39-23.jpg)
+
+## Ветки в git
+
+Чтобы посмотреть все ветки:
+* git branch
+
+Для создания новой ветки с именем branch_name:
+* git branch branch_name
+
+Переместиться к ветке с именем branch_name:
+* git checkout branche_name
