@@ -55,3 +55,12 @@ git init
 
 Переместиться к ветке с именем branch_name:
 * git checkout branche_name
+
+## Удаление веток
+Для того, чтобы удалить ветку с именем branch_name:
+* git branch -d branch_name
+
+Удаление с игнорированием ошибок:
+* git branch -D branch_name
+
+
