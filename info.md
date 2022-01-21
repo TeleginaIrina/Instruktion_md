@@ -69,4 +69,13 @@ git init
 Удаление с игнорированием ошибок:
 * git branch -D branch_name
 
+## Справка
+Чтобы вызвать справку по команде,допишите тег: 
+> --help
 
+Примеры:
+> git add --help
+
+> git branch --help
+
+> git status --help и др.
